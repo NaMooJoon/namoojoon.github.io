@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /about/ 
+  - title: "ML"
+    url: /categories/ML/
+  - title: "CS"
+    url: /categories/CS/
+  - title: "Books"
+    url: /categories/Books/
